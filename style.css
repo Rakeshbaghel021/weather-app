@@ -36,11 +36,11 @@ input[type="submit"]{
   font-size: 20px;
 /*  font-size: 1.6rem;*/
   /*font-weight: 700;
-  color: white;
+  color: white;*/
   background-color: #0079D2;
-  padding: 0.5rem 2rem;
+  /*padding: 0.5rem 2rem;*/
   border: 1px solid #0079D2;
-  border-radius: 5px;*/
+  border-radius: 5px;
 }
 
 .input input[type="text"]{
